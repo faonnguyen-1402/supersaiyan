@@ -1,0 +1,68 @@
+#mum {
+    color: red;
+}
+
+.mum {
+    color: blue;
+}
+
+.mum_green {
+    color: rgb(42, 188, 42);
+    background-color: aqua;
+}
+
+.title {
+    font-size: 32px;
+    color: white;
+    font-weight: bold;
+    background: red;
+}
+
+.supersaiyan {
+    font-size: 40px;
+    color: silver;
+    background: yellow;
+}
+
+.supersaiyanGod {
+    font-size: 40px;
+    color: red;
+    background: black;
+}
+
+.mr-30 {
+    margin-right: 30px;
+}
+
+.ml-40 {
+    margin-left: 40px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+li {
+    color: red
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.super-saiyan-blue {
+    font-size: 40px;
+    font-weight: bold;
+    color: white;
+    background: aqua;
+}
+
+.blue-container {
+    display: flex;
+}
+
+.size-image {
+    width: 300px;
+    height: 300px;
+}
